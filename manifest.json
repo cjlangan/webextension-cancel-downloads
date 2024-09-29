@@ -7,6 +7,12 @@
         "name": "cjlangan",
         "url": "https://github.com/cjlangan/webextension-cancel-downloads"
     },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{6eea540d-baf4-4a27-8db0-0b42642277c9}",
+            "strict_min_version": "79.0"
+        }
+    },
     "permissions": [
         "downloads"
     ],
