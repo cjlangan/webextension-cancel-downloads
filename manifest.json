@@ -1,11 +1,11 @@
 {
-    "description": "Cancels duplicate downloads",
+    "description": "Cancels downloads",
     "manifest_version": 2,
-    "name": "cancel-duplicate-downloads",
-    "version": "0.0.2",
+    "name": "cancel-downloads",
+    "version": "1.0",
     "developer": {
-        "name": "KerfuffleV2",
-        "url": "https://github.com/KerfuffleV2/webextension-cancel-duplicate-downloads"
+        "name": "cjlangan",
+        "url": "https://github.com/cjlangan/webextension-cancel-downloads"
     },
     "browser_specific_settings": {
         "gecko": {
@@ -17,7 +17,7 @@
         "downloads"
     ],
     "browser_action": {
-        "default_title": "canceldup",
+        "default_title": "Cancel All Downloads",
         "default_icon": "icons/cancel-duplicate-downloads.svg"
     },
     "background": {
