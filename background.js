@@ -1,5 +1,5 @@
-const iconEnabled = 'icons/cancel-duplicate-downloads.svg';
-const iconDisabled = 'icons/cancel-duplicate-downloads-disabled.svg';
+const iconEnabled = 'icons/green-power-button.svg';
+const iconDisabled = 'icons/red-power-button.svg';
 
 var extensionEnabled = true;
 var lastCancelled = false;

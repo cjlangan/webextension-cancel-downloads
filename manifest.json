@@ -1,7 +1,7 @@
 {
     "description": "Cancels downloads",
     "manifest_version": 2,
-    "name": "cancel-downloads",
+    "name": "Cancel Downloads",
     "version": "1.0",
     "developer": {
         "name": "cjlangan",
@@ -18,7 +18,7 @@
     ],
     "browser_action": {
         "default_title": "Cancel All Downloads",
-        "default_icon": "icons/cancel-duplicate-downloads.svg"
+        "default_icon": "icons/green-power-button.svg"
     },
     "background": {
         "scripts": [
